@@ -16,7 +16,8 @@ public class Entornos_ejemplos_clases {
         int z = 3;
         int y = 7;
         n = new Clase1();
-        System.out.println("HOLA");
+        System.out.println("buenas");
+        System.out.println("adio");
         
     }
     
