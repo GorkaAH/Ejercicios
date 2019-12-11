@@ -16,7 +16,7 @@ public class Entornos_ejemplos_clases {
         int z = 3;
         int y = 7;
         n = new Clase1();
-        int x = n.metodo(z, y);
+
         
     }
     
