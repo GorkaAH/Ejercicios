@@ -18,7 +18,7 @@ public class Entornos_ejemplos_clases {
         n = new Clase1();
         System.out.println("buenas");
         System.out.println("adio");
-        
+        //primer mensaje
     }
     
     }
